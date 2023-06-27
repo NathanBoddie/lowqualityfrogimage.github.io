@@ -1,0 +1,18 @@
+body{
+background-color:black;
+color: white;
+padding: 10 px;
+}
+
+#image{
+	float:right;
+	
+}
+
+#description{
+	float: right;
+}
+
+#reviews{
+	float: bottom; 
+}
